@@ -36,3 +36,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ![Screenshot PC 3](read-stories-app/src/assets/ss-pc-3.png)
 ![Screenshot PC 4](read-stories-app/src/assets/ss-pc-4.png)
 ![Screenshot PC 5](read-stories-app/src/assets/ss-pc-5.png)
+
+## Function
+There is no function available at the moment !!!
