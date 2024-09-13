@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "vue": "^3.5.3"
+  },
+  "devDependencies": {
+    "pug": "^3.0.3",
+    "pug-plain-loader": "^1.1.0",
+    "stylus": "^0.63.0",
+    "stylus-loader": "^8.1.0"
+  }
+}
