@@ -14,7 +14,10 @@ npm run serve
 ```
 npm run build
 ```
-
+### Install all libraries using in this project
+```
+npm i
+```
 ### Lints and fixes files
 ```
 npm run lint
