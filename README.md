@@ -1,7 +1,8 @@
-# read-stories-app
+# Reading Story Onilne Web
 
 ## Project setup
 ```
+cd read-stories-app
 npm install
 ```
 
@@ -14,7 +15,6 @@ npm run serve
 ```
 npm run build
 ```
-
 ### Lints and fixes files
 ```
 npm run lint
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Screen shot for mobile
+
+## Screen shot for PC 
