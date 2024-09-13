@@ -24,9 +24,11 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Screenshot Mobile
-![Screenshot Mobile 1](read-stories-app/src/assets/ss-mobile-1.png)
-![Screenshot Mobile 2](read-stories-app/src/assets/ss-mobile-2.png)
-![Screenshot Mobile 3](read-stories-app/src/assets/ss-mobile-3.png)
+<p align="center">
+  <img src="read-stories-app/src/assets/ss-mobile-1.png" alt="Screenshot Mbile 1" width="200"/>
+  <img src="read-stories-app/src/assets/ss-mobile-2.pngg" alt="Screenshot Mbile 2" width="200"/>
+  <img src="read-stories-app/src/assets/ss-mobile-3.png" alt="Screenshot Mbile 3" width="200"/>
+</p>
 
 ## Screenshot PC 
 ![Screenshot PC 1](read-stories-app/src/assets/ss-pc-1.png)
