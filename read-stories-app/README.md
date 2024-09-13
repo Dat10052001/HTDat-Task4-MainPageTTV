@@ -1,4 +1,4 @@
-# read-stories-app
+# Reading Story Onilne Web
 
 ## Project setup
 ```
