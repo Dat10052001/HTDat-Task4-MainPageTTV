@@ -25,9 +25,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Screenshot Mobile
 <p align="center">
-  <img src="read-stories-app/src/assets/ss-mobile-1.png" alt="Screenshot Mbile 1" width="200"/>
-  <img src="read-stories-app/src/assets/ss-mobile-2.pngg" alt="Screenshot Mbile 2" width="200"/>
-  <img src="read-stories-app/src/assets/ss-mobile-3.png" alt="Screenshot Mbile 3" width="200"/>
+  <img src="read-stories-app/src/assets/ss-mobile-1.png" alt="Screenshot Mbile 1" width="300"/>
+  <img src="read-stories-app/src/assets/ss-mobile-2.png" alt="Screenshot Mobile 2" width="300"/>
+  <img src="read-stories-app/src/assets/ss-mobile-3.png" alt="Screenshot Mbile 3" width="300"/>
 </p>
 
 ## Screenshot PC 
