@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+cd read-stories-app
 npm install
 ```
 
@@ -13,10 +14,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-### Install all libraries using in this project
-```
-npm i
 ```
 ### Lints and fixes files
 ```
