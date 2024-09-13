@@ -23,6 +23,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Screen shot for mobile
+## Screenshot Mobile
+![Screenshot Mobile 1](read-stories-app/src/assets/ss-mobile-1.png)
 
-## Screen shot for PC 
+## Screenshot PC 
