@@ -1,4 +1,4 @@
-# Online story reading website based on <u> https://truyen.tangthuvien.vn/ </u>
+# This is main page of online story reading website based on <u> https://truyen.tangthuvien.vn/ </u>
 
 ## Project setup
 ```
